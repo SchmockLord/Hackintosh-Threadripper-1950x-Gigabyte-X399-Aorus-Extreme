@@ -2,7 +2,7 @@
 This is my Hackintosh Build based on the OpenCore Bootloader.
 
 # Current Bootloader
-OpenCore 0.5.7
+OpenCore 0.5.8
 
 # Specs
 - CPU: Threadripper 1950x@4.0Ghz
@@ -14,11 +14,11 @@ OpenCore 0.5.7
 - 2TB Intel 660p (ExFAT for both Windows and MacOS)
 
 # Working
-- [x] MacOS Catalina 10.15.4
+- [x] MacOS Catalina 10.15.5
 - [x] h264 and h265 GPU Hardware Encoding
 - [x] Sound
 - [x] 1Gbit and 10 Gbit LAN
-- [x] USB 3.0
+- [x] USB 2.0/3.0 Ports
 - [x] USB-Type C
 
 # Benchmarks
